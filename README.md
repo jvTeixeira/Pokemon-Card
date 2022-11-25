@@ -1,1 +1,1 @@
-# Pokemdex
+# Pokedex
